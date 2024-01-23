@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Alejandro
-- 👀 I’m interested in learning about web development
-- 🌱 I’m currently learning programming logic and some Python libraries
-- 📫 How to reach me through the link in my github profile. 
+- 👋 Hola, soy Alejandro
+- 👀 Estoy interesado en aprender sobre desarrollo Frontend.
+- 🌱 Actualmente estoy aprendiendo librerias como React y Astro.
+- 📫 Cómo comunicarse conmigo a través del enlace en mi perfil de github.
 
 <!---
 Alej0C/Alej0C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
